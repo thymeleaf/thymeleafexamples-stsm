@@ -2,7 +2,7 @@
 
 <!-- ========================================================================= -->
 <!--                                                                           -->
-<!--   Copyright (c) 2011-2014, The THYMELEAF team (http://www.thymeleaf.org)  -->
+<!--   Copyright (c) 2011-2016, The THYMELEAF team (http://www.thymeleaf.org)  -->
 <!--                                                                           -->
 <!--   Licensed under the Apache License, Version 2.0 (the "License");         -->
 <!--   you may not use this file except in compliance with the License.        -->
@@ -82,7 +82,7 @@
 
   <properties>
     <project.build.sourceEncoding>ISO-8859-1</project.build.sourceEncoding>
-    <thymeleaf.version>2.1.4.RELEASE</thymeleaf.version>
+    <thymeleaf.version>2.1.5.RELEASE</thymeleaf.version>
     <springframework.version>4.1.2.RELEASE</springframework.version>
   </properties>
   
